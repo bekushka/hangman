@@ -19,3 +19,5 @@ $ cd ./hangman
 $ bundle
 
 $ bundle exec ruby hangman.rb
+
+![Screenshot](hangman_interface.png)
