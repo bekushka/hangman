@@ -13,6 +13,9 @@
 Для корректного запуска приложения, наберите в консольной панеле следующие команды:
 
 $ git clone https://github.com/bekushka/hangman.git
+
 $ cd ./hangman
+
 $ bundle
+
 $ bundle exec ruby hangman.rb
