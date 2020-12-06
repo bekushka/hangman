@@ -1,6 +1,3 @@
-require 'colorize'
-require 'colorized_string'
-
 class Game
   TOTAL_ERRORS_ALLOWED = 7
 
